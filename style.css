@@ -1,0 +1,24 @@
+body{
+	margin: 0;
+}
+header{
+	text-align: center;
+	position: fixed;
+	width: 100%;
+	background-color:#1E90FF;
+	text-transform: uppercase;
+	color: white;
+}
+
+.gen input{
+	margin-top: 100px;
+	border: none;
+	padding: 15px 40px;
+	border-radius: 3px;
+	font-size: 15px; 
+	margin-left: 10px;
+}
+
+.gen input:hover{
+	box-shadow: 0 0 5px white;
+}
